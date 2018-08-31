@@ -3095,7 +3095,7 @@ public function wp_head() {
 				reset($childs);
 
 		        if($key == $k) {
-		        	$style = 'style="background: url(\'http://www.mothsofindia.org/graphics/dottedangle.gif\') no-repeat scroll 2px 0.0em transparent;"';
+		        	$style = 'style="background: url(\'http://www.mothsofindia.org/graphics/dottedangle.gif\') no-repeat scroll 0px 0.1em transparent;"';
 		        } else {
 		        	$style = 'style="border-left: 0.1em dotted #000000;background: url(\'http://www.mothsofindia.org/graphics/dotted.gif\') no-repeat scroll 1px 0.9em transparent;"';
 		        }
